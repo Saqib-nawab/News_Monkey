@@ -1,3 +1,15 @@
+## NewsMonkey - Your Gateway to Global News
+## Description:
+Dive into the world of information with NewsMonkey, your go-to app for curated news from around the globe. With a sleek and user-friendly interface powered by React, NewsMonkey delivers news spanning entertainment, science, sports, business, and more, straight to your fingertips.
+
+## 🌎 Key Features:
+# Global News Coverage: Stay informed with a diverse range of news categories to suit your interests.
+# Real-time Updates: Get the latest news as it happens, thanks to our seamless integration with a global API.
+# Intuitive User Interface: Experience news consumption like never before with a UI designed for optimal user interaction.
+# Personalized Feed: Tailor your news feed to your preferences, ensuring you get the stories that matter most to you.
+# Shareable Content: Easily share breaking news and intriguing stories with your network directly from the app.
+NewsMonkey is not just an app; it's your passport to the world's happenings. Stay connected, stay informed. Download NewsMonkey today!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +80,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Video Demo
+A video demo of the project is given in the following drive
+https://drive.google.com/file/d/1W6eSsD4KjMYyGUoOPrHMom-yE_z7dCwK/view?usp=sharing
+
